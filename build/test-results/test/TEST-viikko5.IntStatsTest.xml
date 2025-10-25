@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="viikko5.IntStatsTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-10-25T13:25:56" hostname="BETA-PC" time="0.007">
+  <properties/>
+  <testcase name="min_handlesNullAndEmpty()" classname="viikko5.IntStatsTest" time="0.001"/>
+  <testcase name="avg_handlesNullAndEmpty()" classname="viikko5.IntStatsTest" time="0.0"/>
+  <testcase name="[1] 1, 3,1,4,1,5" classname="viikko5.IntStatsTest" time="0.001"/>
+  <testcase name="[2] -20, -10,-20,-5" classname="viikko5.IntStatsTest" time="0.001"/>
+  <testcase name="[3] 7, 7" classname="viikko5.IntStatsTest" time="0.0"/>
+  <testcase name="[1] 5, 3,1,4,1,5" classname="viikko5.IntStatsTest" time="0.001"/>
+  <testcase name="[2] -5, -10,-20,-5" classname="viikko5.IntStatsTest" time="0.0"/>
+  <testcase name="[3] 7, 7" classname="viikko5.IntStatsTest" time="0.0"/>
+  <testcase name="max_handlesNullAndEmpty()" classname="viikko5.IntStatsTest" time="0.0"/>
+  <testcase name="avg_basicCases_roundedToTwoDecimals()" classname="viikko5.IntStatsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

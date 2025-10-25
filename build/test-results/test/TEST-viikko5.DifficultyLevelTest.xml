@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="viikko5.DifficultyLevelTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-10-25T13:25:56" hostname="BETA-PC" time="0.007">
+  <properties/>
+  <testcase name="filterBy_returnsOnlyMatchingAndNewList()" classname="viikko5.DifficultyLevelTest" time="0.001"/>
+  <testcase name="filterBy_ignoresNullTasksSafely()" classname="viikko5.DifficultyLevelTest" time="0.001"/>
+  <testcase name="filterBy_nullInputsYieldEmpty()" classname="viikko5.DifficultyLevelTest" time="0.0"/>
+  <testcase name="[1] EASY" classname="viikko5.DifficultyLevelTest" time="0.0"/>
+  <testcase name="[2] MEDIUM" classname="viikko5.DifficultyLevelTest" time="0.0"/>
+  <testcase name="[3] HARD" classname="viikko5.DifficultyLevelTest" time="0.0"/>
+  <testcase name="task_constructor_validatesInputs()" classname="viikko5.DifficultyLevelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

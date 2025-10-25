@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="viikko5.CountWordsTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2025-10-25T13:25:56" hostname="BETA-PC" time="0.051">
+  <properties/>
+  <testcase name="countWords_handlesNullAndOnlySpaces()" classname="viikko5.CountWordsTest" time="0.008"/>
+  <testcase name="[1] 1, hei" classname="viikko5.CountWordsTest" time="0.013"/>
+  <testcase name="[2] 2, hei maailma" classname="viikko5.CountWordsTest" time="0.0"/>
+  <testcase name="[3] 2, hei   maailma" classname="viikko5.CountWordsTest" time="0.0"/>
+  <testcase name="[4] 3, Hei   maailma  !" classname="viikko5.CountWordsTest" time="0.0"/>
+  <testcase name="[5] 3, kissa  koira   kana" classname="viikko5.CountWordsTest" time="0.001"/>
+  <testcase name="[6] 1, sana" classname="viikko5.CountWordsTest" time="0.0"/>
+  <testcase name="[7] 4, a  b    c d" classname="viikko5.CountWordsTest" time="0.0"/>
+  <testcase name="[8] 3, välilyönti  sisällä  lauseessa" classname="viikko5.CountWordsTest" time="0.0"/>
+  <testcase name="[9] 1, word" classname="viikko5.CountWordsTest" time="0.0"/>
+  <testcase name="countWords_onlyPunctuationSeparatedBySpaces()" classname="viikko5.CountWordsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
